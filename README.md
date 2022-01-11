@@ -18,7 +18,7 @@
 💙 ElasticSearch
 💙 AWS
 💙 GitHub
-💙 API`s - Integrações
+💙 API's - Integrações
 💙 Javascript
 💙 Node.js
 
