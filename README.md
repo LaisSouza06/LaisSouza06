@@ -1,4 +1,5 @@
 
+Olá, eu sou a Laís Souza, seja bem-vindo!😎
 
 - 🧚‍ Desenvolvedora de Software - SQL | PL/SQL | Python/Django
 - 🌱 Estudando Node.js e JavaScript
