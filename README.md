@@ -7,6 +7,8 @@
 - 🌴 Beach Lover ❤
 
 
+<img src="/LaisSouza06/LaisSouza06/l.png"/>
+
 💙 Engenharia de Software
 💙 Agile
 💙 Projetos
