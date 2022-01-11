@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**LaisSouza06/LaisSouza06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🧚‍ Desenvolvedora de Software - SQL | PL/SQL | Python/Django
+- 🌱 Estudando Node.js e JavaScript
+- ☕ Apreciadora de cafés
+- 🌿 AgroGirl nas horas vagas
+- 🌴 Beach Lover ❤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💙 Engenharia de Software
+💙 Agile
+💙 Projetos
+💙 SQL
+💙 PL/SQL
+💙 Python
+💙 Djnago
+💙 Pandas
+💙 Jenkins
+💙 ElasticSearch
+💙 AWS
+💙 GitHub
+💙 API`s - Integrações
+💙 Javascript
+💙 Node.js
+
+
