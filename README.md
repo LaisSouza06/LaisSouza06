@@ -17,6 +17,7 @@ Olá, eu sou a Laís Souza, seja bem-vindo!😎
 💙 Pandas
 💙 Jenkins
 💙 ElasticSearch
+💙 Airflow
 💙 AWS
 💙 GitHub
 💙 API's - Integrações
