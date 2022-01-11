@@ -7,20 +7,20 @@
 - 🌴 Beach Lover ❤
 
 
-- 💙 Engenharia de Software
-- 💙 Agile
-- 💙 Projetos
-- 💙 SQL
-- 💙 PL/SQL
-- 💙 Python
-- 💙 Djnago
-- 💙 Pandas
-- 💙 Jenkins
-- 💙 ElasticSearch
-- 💙 AWS
-- 💙 GitHub
-- 💙 API`s - Integrações
-- 💙 Javascript
-- 💙 Node.js
+💙 Engenharia de Software
+💙 Agile
+💙 Projetos
+💙 SQL
+💙 PL/SQL
+💙 Python
+💙 Djnago
+💙 Pandas
+💙 Jenkins
+💙 ElasticSearch
+💙 AWS
+💙 GitHub
+💙 API`s - Integrações
+💙 Javascript
+💙 Node.js
 
 
