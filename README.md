@@ -3,7 +3,7 @@ Olá, eu sou a Laís Souza, seja bem-vindo!😎
 
 - 🧚‍ Desenvolvedora de Software - SQL | PL/SQL | Python/Django
 - 🌱 Estudando Node.js e JavaScript
-- ☕ Apreciadora de cafés
+- ☕ Apreciadora de cafés e pão de queijo! 
 - 🌿 AgroGirl nas horas vagas
 - 🌴 Beach Lover ❤
 
