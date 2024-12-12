@@ -1,9 +1,7 @@
 
 Olá, eu sou a Laís Souza, seja bem-vindo!😎
 
-- 🧚‍ Support Engineer - SQL | PL/SQL | Python/Django | AWS | API 
-- ☕ Apreciadora de cafés e pão de queijo! 
-- 🌴 Beach Lover ❤
+- 🧚‍ Support Engineer | Software Engineer | SQL | PL/SQL | Python | SaaS | AWS | API | Machine Learning | IA | Data
 
 💙 Engenharia de Software
 💙 Agile
@@ -11,15 +9,20 @@ Olá, eu sou a Laís Souza, seja bem-vindo!😎
 💙 SQL
 💙 PL/SQL
 💙 Python
-💙 Djnago
-💙 Pandas
+💙 Data Specialist
+💙 Looker
+💙 Superset
+💙 Jira
+💙 Zendesk
+💙 Salesforce
+💙 Confluence
 💙 Jenkins
 💙 ElasticSearch
 💙 Airflow
 💙 AWS
 💙 GitHub
 💙 API's - Integrações
-💙 Javascript
-💙 Node.js
+💙 Machine Learning
+💙 IA
 
 
