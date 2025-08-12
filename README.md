@@ -1,5 +1,7 @@
 💙 Laís S. — Especialista em Troubleshooting & Suporte Técnico N2
 
+<img width="1536" height="1024" alt="la" src="https://github.com/user-attachments/assets/a38cfb96-0d30-4232-9478-aecb9fbccdf1" />
+
 <img src="https://img.shields.io/badge/🚀%20Always%20Learning-Tech-blue" alt="Always Learning"> <img src="https://img.shields.io/badge/💻%20Data%20Driven-Success-brightgreen" alt="Data Driven">
 
 Sou Especialista em troubleshooting, análise e identificação de problemas, com foco na otimização de processos e na implementação de melhorias que impulsionam inovação e eficiência operacional.
