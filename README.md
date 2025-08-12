@@ -41,6 +41,8 @@ Mapeamento de fluxos
 Criação de guias e escalabilidade de processos
 
 🌟 Sobre Mim
+
 📈 Apaixonada por Tecnologia, Dados, Inovação e Inteligência Artificial.
+
 🎯 Meu objetivo é aprimorar processos, reduzir impactos operacionais e entregar soluções estratégicas de alto valor.
 
