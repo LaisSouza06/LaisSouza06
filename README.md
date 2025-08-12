@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="lais" src="https://github.com/user-attachments/assets/1774d16c-1f9b-434f-8d7e-909cbda7bd47" />
+
 <!-- Banner -->
 <p align="center">
   <img src="https://img.shields.io/badge/Tecnologia-Preto?style=for-the-badge&logo=github&logoColor=white" />
