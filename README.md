@@ -1,7 +1,5 @@
 <img width="1536" height="1024" alt="la" src="https://github.com/user-attachments/assets/a38cfb96-0d30-4232-9478-aecb9fbccdf1" />
 
-<img src="https://img.shields.io/badge/🚀%20Always%20Learning-Tech-blue" alt="Always Learning"> <img src="https://img.shields.io/badge/💻%20Data%20Driven-Success-brightgreen" alt="Data Driven">
-
 <!-- Banner -->
 <p align="center">
   <img src="https://img.shields.io/badge/Tecnologia-Preto?style=for-the-badge&logo=github&logoColor=white" />
@@ -52,11 +50,17 @@ Apaixonada por **Tecnologia, Dados, Inovação e IA**, com o objetivo de:
 
 <!-- Badges Extras -->
 <p align="center">
+  <!-- Linguagens e Ferramentas -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=azure-machine-learning&logoColor=white" />
+  
+  <!-- Bibliotecas Data Science -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4B0082?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
-
-
 
 
