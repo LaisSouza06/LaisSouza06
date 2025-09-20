@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="lais" src="https://github.com/user-attachments/assets/1774d16c-1f9b-434f-8d7e-909cbda7bd47" />
+<img width="1536" height="1024" alt="lais" src="https://github.com/LaisSouza06/LaisSouza06/blob/main/Lais_Souza_S_E.png?raw=true" />
 
 <!-- Banner -->
 <p align="center">
