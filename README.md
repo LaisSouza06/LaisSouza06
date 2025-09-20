@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LaisSouza06/LaisSouza06/blob/main/Lais_Souza_S_E.png?raw=true" width="450"/>
+  <img src="https://github.com/LaisSouza06/LaisSouza06/blob/main/Lais_Souza_S_E.png?raw=true" width="550"/>
 </p>
 
 <h1 align="center">💙 Laís Souza | Software Engineer & Support Engineer N2 | Dados, IA & Machine Learning 💻</h1>
