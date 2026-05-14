@@ -1,5 +1,6 @@
+<!-- BANNER -->
 <p align="center">
-  <img src="assets/banner.png" width="100%" />
+  <img src="https://github.com/LaisSouza06/LaisSouza06/blob/main/Lais_Souza_S_E.png?raw=true" width="100%" />
 </p>
 
 <!-- NOME -->
@@ -133,19 +134,6 @@ Combinando visão analítica, Inteligência Artificial e melhoria contínua para
 🏅 Machine Learning Practitioner – BairesDev | 2024 <br>
 🏅 IA Generativa com Microsoft Copilot – Caixa | 2024 <br>
 🏅 SQL (Basic & Intermediate) – HackerRank
-
-</p>
-
----
-
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisSouza06&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisSouza06&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
