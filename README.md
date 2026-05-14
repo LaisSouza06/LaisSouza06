@@ -1,6 +1,7 @@
+
 <!-- BANNER -->
 <p align="center">
-  <img src="https://github.com/LaisSouza06/LaisSouza06/blob/main/Lais_Souza_S_E.png?raw=true" width="100%" />
+  <img src="https://github.com/LaisSouza06/LaisSouza06/blob/main/Lais_Souza_S_E.png?raw=true" width="50%" />
 </p>
 
 <!-- NOME -->
