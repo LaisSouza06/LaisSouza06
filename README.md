@@ -68,13 +68,6 @@ Combinando visão analítica, Inteligência Artificial e melhoria contínua para
 <td align="center">IA Generativa</td>
 </tr>
 
-
-<!-- BANNER -->
-<p align="center">
-  <img src="https://github.com/LaisSouza06/LaisSouza06/blob/main/Lais_Souza_S_E.png?raw=true" width="50%" />
-</p>
-
-
 <tr>
 <td align="center">Suporte SaaS</td>
 <td align="center">Data-Driven Decisions</td>
@@ -147,4 +140,9 @@ Combinando visão analítica, Inteligência Artificial e melhoria contínua para
 ✨ Transformando problemas complexos em soluções inteligentes através de suporte avançado, dados e Inteligência Artificial. ✨
 
 </p>
-```
+
+
+<!-- BANNER -->
+<p align="center">
+  <img src="https://github.com/LaisSouza06/LaisSouza06/blob/main/Lais_Souza_S_E.png?raw=true" width="50%" />
+</p>
