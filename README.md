@@ -141,8 +141,3 @@ Combinando visão analítica, Inteligência Artificial e melhoria contínua para
 
 </p>
 
-
-<!-- BANNER -->
-<p align="center">
-  <img src="https://github.com/LaisSouza06/LaisSouza06/blob/main/Lais_Souza_S_E.png?raw=true" width="50%" />
-</p>
