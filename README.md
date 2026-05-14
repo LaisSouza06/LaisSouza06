@@ -1,9 +1,3 @@
-
-<!-- BANNER -->
-<p align="center">
-  <img src="https://github.com/LaisSouza06/LaisSouza06/blob/main/Lais_Souza_S_E.png?raw=true" width="50%" />
-</p>
-
 <!-- NOME -->
 <h1 align="center">💙 Laís Souza</h1>
 
@@ -73,6 +67,13 @@ Combinando visão analítica, Inteligência Artificial e melhoria contínua para
 <td align="center">BI & Métricas</td>
 <td align="center">IA Generativa</td>
 </tr>
+
+
+<!-- BANNER -->
+<p align="center">
+  <img src="https://github.com/LaisSouza06/LaisSouza06/blob/main/Lais_Souza_S_E.png?raw=true" width="50%" />
+</p>
+
 
 <tr>
 <td align="center">Suporte SaaS</td>
