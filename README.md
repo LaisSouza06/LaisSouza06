@@ -30,11 +30,11 @@ Especialista em troubleshooting avançado, análise de dados e soluções inteli
 
 ## 👩‍💻 Sobre Mim
 
-Especialista em **Support Engineering**, atuando em ambientes SaaS de alta disponibilidade, com foco em troubleshooting avançado, investigação de incidentes críticos, análise de logs, APIs REST, integrações e bancos de dados.
+Especialista em **Support Engineering**, atuando em ambientes SaaS com foco em troubleshooting avançado, investigação de incidentes, análise de logs, APIs REST, integrações, bancos de dados e resolução de problemas técnicos complexos.
 
-Tenho uma atuação fortemente orientada por dados, utilizando **SQL**, indicadores operacionais, dashboards e análise de métricas para identificar causas raiz, apoiar decisões técnicas e promover melhorias contínuas em produtos e processos.
+Minha atuação é fortemente orientada por dados, utilizando **SQL**, **PL/SQL**, dashboards, métricas operacionais e análise de indicadores para identificar causas raiz, apoiar decisões técnicas e promover melhorias contínuas em produtos e processos.
 
-Atualmente, estou expandindo meus conhecimentos em **Engenharia de Dados**, **Inteligência Artificial** e **Automação**, desenvolvendo soluções com **Databricks**, **Python**, **ETL**, **Machine Learning** e **n8n**, conectando suporte, dados e tecnologia para gerar soluções escaláveis.
+Atualmente, estou expandindo minha atuação em **Engenharia de Dados**, **Inteligência Artificial** e **Automação**, desenvolvendo soluções com **Databricks**, **Python**, **ETL**, **Machine Learning** e **n8n** para transformar dados em inteligência de negócio.
 
 ---
 
@@ -139,7 +139,7 @@ Atualmente, estou expandindo meus conhecimentos em **Engenharia de Dados**, **In
 
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/ETL-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL_&_ELT-1565C0?style=for-the-badge"/>
 
 </p>
 
@@ -154,6 +154,8 @@ Atualmente, estou expandindo meus conhecimentos em **Engenharia de Dados**, **In
 </p>
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 
@@ -229,28 +231,30 @@ Atualmente, estou expandindo meus conhecimentos em **Engenharia de Dados**, **In
 
 ## 🎓 Certificações
 
-🏅 Databricks Fundamentals
+🏅 Databricks Fundamentals — Databricks
 
-🏅 Astronomer Certification — Apache Airflow 3 Fundamentals
+🏅 Apache Airflow 3 Fundamentals — Astronomer
+
+🏅 Python (Basic) — HackerRank
+
+🏅 SQL (Basic & Intermediate) — HackerRank
 
 🏅 Machine Learning Practitioner — BairesDev
 
-🏅 IA Generativa com Microsoft Copilot
-
-🏅 SQL (Basic & Intermediate) — HackerRank
+🏅 IA Generativa com Microsoft Copilot — Microsoft
 
 ---
 
 ## 📚 Atualmente Estudando
 
+- Engenharia de Dados
 - Apache Spark
 - Delta Lake
 - Lakehouse Architecture
-- Engenharia de Dados
-- Data Pipelines
 - ETL & ELT
+- Data Pipelines
 - Machine Learning
-- IA Generativa
+- Inteligência Artificial
 - AI Agents
 - LLMs
 - n8n
@@ -260,7 +264,7 @@ Atualmente, estou expandindo meus conhecimentos em **Engenharia de Dados**, **In
 
 ## 🎯 Objetivo Profissional
 
-Construir soluções que integrem **Support Engineering**, **Engenharia de Dados**, **Inteligência Artificial** e **Automação**, utilizando dados para otimizar processos, apoiar decisões e desenvolver produtos mais inteligentes, escaláveis e eficientes.
+Conectar **Support Engineering**, **Engenharia de Dados**, **Análise de Dados** e **Inteligência Artificial** para desenvolver soluções escaláveis, automatizadas e orientadas por dados, contribuindo para produtos mais robustos, eficientes e centrados na experiência do cliente.
 
 ---
 
