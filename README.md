@@ -1,143 +1,323 @@
-<!-- NOME -->
-<h1 align="center">💙 Laís Souza</h1>
+<!-- ===================================================== -->
+<!-- HEADER -->
+<!-- ===================================================== -->
 
-<!-- SUBTITULO -->
+<h1 align="center">Laís Souza</h1>
+
 <h3 align="center">
-  Support Engineer N2 • Data Analytics • AI • Product Operations
+Data Engineer • AI Engineer • Support Engineering • Software Engineering
 </h3>
 
-<!-- DESCRIÇÃO -->
 <p align="center">
-  Especialista em troubleshooting avançado, análise de dados e otimização de produtos SaaS.
+Building scalable data solutions through Data Engineering, Artificial Intelligence and Automation.
 </p>
 
-<!-- BADGES -->
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Support_Engineering-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Engineering-0A66C2?style=for-the-badge"/>
 
-  <img src="https://img.shields.io/badge/Data_Analytics-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-6E40C9?style=for-the-badge"/>
 
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-6E40C9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine_Learning-009688?style=for-the-badge"/>
 
-  <img src="https://img.shields.io/badge/Product_Ops-24292F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-24292F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ETL_&_ELT-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Pipelines-1565C0?style=for-the-badge"/>
+
+</p>
+
+---
+
+<h2>👩‍💻 About Me</h2>
+
+<p>
+
+Support Engineer with more than <strong>7 years of experience</strong> in Enterprise SaaS platforms, specializing in advanced troubleshooting, incident management, APIs, SQL, system integrations and data-driven problem solving.
+
+My career is currently focused on <strong>Data Engineering</strong>, developing modern data pipelines, ETL processes, analytics solutions and Artificial Intelligence applications.
+
+I enjoy building scalable, intelligent and automated solutions capable of transforming data into business value.
 
 </p>
 
 ---
 
-<!-- SOBRE -->
-<h2 align="center">🚀 Sobre Mim</h2>
+<h2>🎯 Career Focus</h2>
 
-<p align="center">
-Profissional de Support Engineering N2 com experiência em ambientes SaaS de alta demanda, atuando em troubleshooting avançado, investigação de bugs, análise de logs, integrações, automações e operações orientadas a dados.
-</p>
+<ul>
 
-<p align="center">
-Combinando visão analítica, Inteligência Artificial e melhoria contínua para transformar problemas complexos em soluções escaláveis e eficientes.
-</p>
+<li>Data Engineering</li>
+
+<li>Artificial Intelligence</li>
+
+<li>Machine Learning</li>
+
+<li>ETL / ELT</li>
+
+<li>Data Pipelines</li>
+
+<li>Data Analytics</li>
+
+<li>Cloud Technologies</li>
+
+<li>Automation with n8n</li>
+
+</ul>
 
 ---
 
-<!-- ESPECIALIDADES -->
-<h2 align="center">💼 Especialidades</h2>
+<h2>🛠 Core Skills</h2>
 
-<table align="center">
+<table>
 
 <tr>
-<td align="center">🖥️ Support Engineering</td>
-<td align="center">📊 Dados & Analytics</td>
-<td align="center">🤖 IA & Machine Learning</td>
+
+<th>Data Engineering</th>
+
+<th>Artificial Intelligence</th>
+
+<th>Software Engineering</th>
+
+<th>Support Engineering</th>
+
 </tr>
 
 <tr>
-<td align="center">Troubleshooting Avançado</td>
-<td align="center">SQL & Python</td>
-<td align="center">Scikit-Learn</td>
+
+<td>SQL</td>
+
+<td>Machine Learning</td>
+
+<td>Python</td>
+
+<td>Advanced Troubleshooting</td>
+
 </tr>
 
 <tr>
-<td align="center">Análise de Logs</td>
-<td align="center">Pandas & NumPy</td>
-<td align="center">TensorFlow</td>
+
+<td>PL/SQL</td>
+
+<td>Generative AI</td>
+
+<td>REST APIs</td>
+
+<td>Incident Management</td>
+
 </tr>
 
 <tr>
-<td align="center">Investigação de Bugs</td>
-<td align="center">BI & Métricas</td>
-<td align="center">IA Generativa</td>
+
+<td>ETL / ELT</td>
+
+<td>LLMs</td>
+
+<td>Git & GitHub</td>
+
+<td>Root Cause Analysis</td>
+
 </tr>
 
 <tr>
-<td align="center">Suporte SaaS</td>
-<td align="center">Data-Driven Decisions</td>
-<td align="center">Automação Inteligente</td>
+
+<td>Data Modeling</td>
+
+<td>Prompt Engineering</td>
+
+<td>Webhooks</td>
+
+<td>Bug Investigation</td>
+
+</tr>
+
+<tr>
+
+<td>Data Pipelines</td>
+
+<td>TensorFlow</td>
+
+<td>Microservices</td>
+
+<td>Log Analysis</td>
+
+</tr>
+
+<tr>
+
+<td>Apache Airflow</td>
+
+<td>Scikit-Learn</td>
+
+<td>Software Architecture</td>
+
+<td>SaaS Platforms</td>
+
 </tr>
 
 </table>
 
 ---
 
-<!-- TECNOLOGIAS -->
-<h2 align="center">⚡ Tecnologias & Ferramentas</h2>
+<h2>⚙ Technologies & Tools</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,aws,github,git,jenkins,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,aws,django,tensorflow"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge"/>
 
-<!-- OBJETIVOS -->
-<h2 align="center">📈 Objetivos Profissionais</h2>
+<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge"/>
 
-<p align="center">
-✨ Evoluir em Support Engineering com foco em Dados e Inteligência Artificial
-</p>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 
-<p align="center">
-✨ Criar soluções inteligentes e escaláveis para produtos SaaS
-</p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<p align="center">
-✨ Conectar suporte, operações, analytics e IA para melhorar experiência do usuário
-</p>
-
----
-
-<!-- CERTIFICAÇÕES -->
-<h2 align="center">📚 Certificações</h2>
-
-<p align="center">
-
-🏅 Astronomer Certification – Apache Airflow 3 Fundamentals | 2025 <br>
-🏅 Machine Learning Practitioner – BairesDev | 2024 <br>
-🏅 IA Generativa com Microsoft Copilot – Caixa | 2024 <br>
-🏅 SQL (Basic & Intermediate) – HackerRank
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
 </p>
 
 ---
 
-<!-- FRASE FINAL -->
+<h2>📊 Data & Analytics</h2>
+
+<ul>
+
+<li>SQL & PL/SQL</li>
+
+<li>Data Analysis</li>
+
+<li>Business Intelligence</li>
+
+<li>Apache Superset</li>
+
+<li>Metabase</li>
+
+<li>Dashboard Development</li>
+
+<li>KPI Monitoring</li>
+
+<li>Data Visualization</li>
+
+<li>Operational Metrics</li>
+
+</ul>
+
+---
+
+<h2>🤖 Artificial Intelligence</h2>
+
+<ul>
+
+<li>Machine Learning</li>
+
+<li>TensorFlow</li>
+
+<li>Scikit-Learn</li>
+
+<li>Generative AI</li>
+
+<li>LLMs</li>
+
+<li>Prompt Engineering</li>
+
+<li>AI Automation</li>
+
+<li>n8n Workflows</li>
+
+</ul>
+
+---
+
+<h2>☁ Cloud & DevOps</h2>
+
+<ul>
+
+<li>AWS</li>
+
+<li>Git</li>
+
+<li>GitHub</li>
+
+<li>GitHub Actions</li>
+
+<li>Apache Airflow</li>
+
+<li>Jenkins</li>
+
+<li>REST APIs</li>
+
+<li>Webhooks</li>
+
+</ul>
+
+---
+
+<h2>🏆 Certifications</h2>
+
+<ul>
+
+<li>Astronomer Certification — Apache Airflow 3 Fundamentals</li>
+
+<li>Machine Learning Practitioner — BairesDev</li>
+
+<li>Generative AI with Microsoft Copilot</li>
+
+<li>SQL (Basic & Intermediate) — HackerRank</li>
+
+</ul>
+
+---
+
+<h2>🎯 Currently Learning</h2>
+
+<ul>
+
+<li>Data Engineering</li>
+
+<li>Databricks</li>
+
+<li>Apache Spark</li>
+
+<li>Delta Lake</li>
+
+<li>Lakehouse Architecture</li>
+
+<li>PySpark</li>
+
+<li>Advanced Machine Learning</li>
+
+<li>AI Agents</li>
+
+<li>LLMs</li>
+
+<li>n8n Automation</li>
+
+</ul>
+
+---
+
 <p align="center">
 
-✨ Transformando problemas complexos em soluções inteligentes através de suporte avançado, dados e Inteligência Artificial. ✨
+<b>
+Data Engineering • Artificial Intelligence • Machine Learning • Analytics • Automation
+</b>
 
 </p>
-
