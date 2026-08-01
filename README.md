@@ -5,170 +5,118 @@
 <h1 align="center">Laís Souza</h1>
 
 <h3 align="center">
-Data Engineer • AI Engineer • Support Engineering • Software Engineering
+Support Engineer • Data Analytics • Inteligência Artificial • Engenharia de Software
 </h3>
 
 <p align="center">
-Building scalable data solutions through Data Engineering, Artificial Intelligence and Automation.
+Especialista em suporte técnico para produtos SaaS, unindo análise de dados, automação e Inteligência Artificial para resolver problemas complexos.
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Data_Engineering-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Support_Engineering-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics-1565C0?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Artificial_Intelligence-6E40C9?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Machine_Learning-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL-24292F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ETL_&_ELT-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Pipelines-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software_Engineering-455A64?style=for-the-badge"/>
 
 </p>
 
 ---
 
-<h2>👩‍💻 About Me</h2>
+## 👩‍💻 Sobre Mim
 
-<p>
+Profissional de **Support Engineering** com mais de **7 anos de experiência** em ambientes SaaS de alta disponibilidade, atuando na investigação de incidentes críticos, troubleshooting avançado, análise de logs, APIs REST, integrações, bancos de dados e resolução de problemas complexos.
 
-Support Engineer with more than <strong>7 years of experience</strong> in Enterprise SaaS platforms, specializing in advanced troubleshooting, incident management, APIs, SQL, system integrations and data-driven problem solving.
+Ao longo da minha carreira, a análise de dados sempre fez parte do meu trabalho. Utilizo SQL, dashboards, métricas operacionais e ferramentas analíticas para identificar causas raiz, apoiar decisões técnicas e melhorar continuamente a experiência dos clientes.
 
-My career is currently focused on <strong>Data Engineering</strong>, developing modern data pipelines, ETL processes, analytics solutions and Artificial Intelligence applications.
-
-I enjoy building scalable, intelligent and automated solutions capable of transforming data into business value.
-
-</p>
+Atualmente estou aprofundando meus conhecimentos em **Engenharia de Dados, Inteligência Artificial, Machine Learning e automação**, ampliando minha atuação para construção de pipelines de dados e soluções inteligentes.
 
 ---
 
-<h2>🎯 Career Focus</h2>
+## 🎯 Áreas de Atuação
 
-<ul>
-
-<li>Data Engineering</li>
-
-<li>Artificial Intelligence</li>
-
-<li>Machine Learning</li>
-
-<li>ETL / ELT</li>
-
-<li>Data Pipelines</li>
-
-<li>Data Analytics</li>
-
-<li>Cloud Technologies</li>
-
-<li>Automation with n8n</li>
-
-</ul>
+- Support Engineering
+- Data Analytics
+- Engenharia de Dados
+- Inteligência Artificial
+- Engenharia de Software
+- Automação de Processos
 
 ---
 
-<h2>🛠 Core Skills</h2>
+## 🛠 Principais Competências
 
 <table>
 
 <tr>
-
-<th>Data Engineering</th>
-
-<th>Artificial Intelligence</th>
-
-<th>Software Engineering</th>
-
 <th>Support Engineering</th>
-
+<th>Dados & Analytics</th>
+<th>IA & Automação</th>
+<th>Engenharia de Software</th>
 </tr>
 
 <tr>
-
+<td>Troubleshooting Avançado</td>
 <td>SQL</td>
-
 <td>Machine Learning</td>
-
 <td>Python</td>
-
-<td>Advanced Troubleshooting</td>
-
 </tr>
 
 <tr>
-
+<td>Investigação de Bugs</td>
 <td>PL/SQL</td>
-
-<td>Generative AI</td>
-
-<td>REST APIs</td>
-
-<td>Incident Management</td>
-
+<td>IA Generativa</td>
+<td>APIs REST</td>
 </tr>
 
 <tr>
-
-<td>ETL / ELT</td>
-
+<td>Análise de Logs</td>
+<td>ETL</td>
 <td>LLMs</td>
-
-<td>Git & GitHub</td>
-
-<td>Root Cause Analysis</td>
-
-</tr>
-
-<tr>
-
-<td>Data Modeling</td>
-
-<td>Prompt Engineering</td>
-
 <td>Webhooks</td>
-
-<td>Bug Investigation</td>
-
 </tr>
 
 <tr>
-
-<td>Data Pipelines</td>
-
-<td>TensorFlow</td>
-
-<td>Microservices</td>
-
-<td>Log Analysis</td>
-
+<td>Root Cause Analysis</td>
+<td>Modelagem de Dados</td>
+<td>Prompt Engineering</td>
+<td>Git & GitHub</td>
 </tr>
 
 <tr>
+<td>Integrações</td>
+<td>Dashboards</td>
+<td>Automação com n8n</td>
+<td>AWS</td>
+</tr>
 
-<td>Apache Airflow</td>
-
+<tr>
+<td>Produtos SaaS</td>
+<td>Business Intelligence</td>
 <td>Scikit-Learn</td>
-
-<td>Software Architecture</td>
-
-<td>SaaS Platforms</td>
-
+<td>Jenkins</td>
 </tr>
 
 </table>
 
 ---
 
-<h2>⚙ Technologies & Tools</h2>
+## ⚙ Tecnologias & Ferramentas
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,aws,django,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,aws,tensorflow"/>
 
 </p>
 
 <p align="center">
+
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 
@@ -176,148 +124,79 @@ I enjoy building scalable, intelligent and automated solutions capable of transf
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
 </p>
 
 ---
 
-<h2>📊 Data & Analytics</h2>
+## 📊 Experiência Técnica
 
-<ul>
+✔ Troubleshooting Avançado
 
-<li>SQL & PL/SQL</li>
+✔ SQL e PL/SQL
 
-<li>Data Analysis</li>
+✔ APIs REST
 
-<li>Business Intelligence</li>
+✔ Integrações
 
-<li>Apache Superset</li>
+✔ Investigação de Bugs
 
-<li>Metabase</li>
+✔ Root Cause Analysis
 
-<li>Dashboard Development</li>
+✔ Dashboards e KPIs
 
-<li>KPI Monitoring</li>
+✔ Data Analytics
 
-<li>Data Visualization</li>
+✔ ETL
 
-<li>Operational Metrics</li>
+✔ Engenharia de Dados
 
-</ul>
+✔ Automação com n8n
 
----
+✔ Inteligência Artificial
 
-<h2>🤖 Artificial Intelligence</h2>
+✔ Machine Learning
 
-<ul>
-
-<li>Machine Learning</li>
-
-<li>TensorFlow</li>
-
-<li>Scikit-Learn</li>
-
-<li>Generative AI</li>
-
-<li>LLMs</li>
-
-<li>Prompt Engineering</li>
-
-<li>AI Automation</li>
-
-<li>n8n Workflows</li>
-
-</ul>
+✔ Produtos SaaS Enterprise
 
 ---
 
-<h2>☁ Cloud & DevOps</h2>
+## 🎓 Certificações
 
-<ul>
+🏅 Astronomer Certification – Apache Airflow 3 Fundamentals
 
-<li>AWS</li>
+🏅 Machine Learning Practitioner – BairesDev
 
-<li>Git</li>
+🏅 IA Generativa com Microsoft Copilot
 
-<li>GitHub</li>
-
-<li>GitHub Actions</li>
-
-<li>Apache Airflow</li>
-
-<li>Jenkins</li>
-
-<li>REST APIs</li>
-
-<li>Webhooks</li>
-
-</ul>
+🏅 SQL (Basic & Intermediate) – HackerRank
 
 ---
 
-<h2>🏆 Certifications</h2>
+## 📚 Atualmente Estudando
 
-<ul>
-
-<li>Astronomer Certification — Apache Airflow 3 Fundamentals</li>
-
-<li>Machine Learning Practitioner — BairesDev</li>
-
-<li>Generative AI with Microsoft Copilot</li>
-
-<li>SQL (Basic & Intermediate) — HackerRank</li>
-
-</ul>
-
----
-
-<h2>🎯 Currently Learning</h2>
-
-<ul>
-
-<li>Data Engineering</li>
-
-<li>Databricks</li>
-
-<li>Apache Spark</li>
-
-<li>Delta Lake</li>
-
-<li>Lakehouse Architecture</li>
-
-<li>PySpark</li>
-
-<li>Advanced Machine Learning</li>
-
-<li>AI Agents</li>
-
-<li>LLMs</li>
-
-<li>n8n Automation</li>
-
-</ul>
+- Engenharia de Dados
+- Databricks
+- Apache Spark
+- Lakehouse
+- ETL & ELT
+- Machine Learning
+- Inteligência Artificial
+- n8n
+- Engenharia de Prompt
+- LLMs
 
 ---
 
 <p align="center">
 
-<b>
-Data Engineering • Artificial Intelligence • Machine Learning • Analytics • Automation
-</b>
+<strong>
+Suporte Técnico • Dados • Inteligência Artificial • Automação • Engenharia de Software
+</strong>
 
 </p>
