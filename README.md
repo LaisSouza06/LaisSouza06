@@ -34,7 +34,7 @@ Especialista em **Support Engineering**, atuando em ambientes SaaS com foco em t
 
 Minha atuação é fortemente orientada por dados, utilizando **SQL**, **PL/SQL**, dashboards, métricas operacionais e análise de indicadores para identificar causas raiz, apoiar decisões técnicas e promover melhorias contínuas em produtos e processos.
 
-Atualmente, estou expandindo minha atuação em **Engenharia de Dados**, **Inteligência Artificial** e **Automação**, desenvolvendo soluções com **Databricks**, **Python**, **ETL**, **Machine Learning** e **n8n** para transformar dados em inteligência de negócio.
+Atualmente, estou ampliando minha atuação em **Engenharia de Dados**, **Inteligência Artificial** e **Automação**, desenvolvendo soluções com **Databricks**, **Python**, **ETL**, **Machine Learning** e **n8n**, conectando suporte, dados e tecnologia para gerar soluções escaláveis e inteligentes.
 
 ---
 
@@ -229,7 +229,19 @@ Atualmente, estou expandindo minha atuação em **Engenharia de Dados**, **Intel
 
 ---
 
-## 🎓 Certificações
+## 🎓 Formação & Certificações
+
+### Formação
+
+🎓 Engenharia de Produção
+
+🎓 Pós-graduação em Engenharia de Software
+
+🎓 MBA em Gestão de Projetos
+
+---
+
+### Certificações
 
 🏅 Databricks Fundamentals — Databricks
 
@@ -240,6 +252,8 @@ Atualmente, estou expandindo minha atuação em **Engenharia de Dados**, **Intel
 🏅 SQL (Basic & Intermediate) — HackerRank
 
 🏅 Machine Learning Practitioner — BairesDev
+
+🏅 Machine Learning 4.0 — Data Science Academy
 
 🏅 IA Generativa com Microsoft Copilot — Microsoft
 
