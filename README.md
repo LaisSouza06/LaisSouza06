@@ -30,11 +30,11 @@ Especialista em troubleshooting avançado, análise de dados e soluções inteli
 
 ## 👩‍💻 Sobre Mim
 
-Especialista em **Support Engineering**, atuando em ambientes SaaS de alta disponibilidade, com foco em troubleshooting avançado, investigação de incidentes críticos, análise de logs, APIs REST, integrações, bancos de dados e resolução de problemas complexos.
+Especialista em **Support Engineering**, atuando em ambientes SaaS de alta disponibilidade, com foco em troubleshooting avançado, investigação de incidentes críticos, análise de logs, APIs REST, integrações e bancos de dados.
 
-Ao longo da minha trajetória, a análise de dados sempre fez parte do processo de investigação e tomada de decisão técnica. Utilizo SQL, dashboards, indicadores operacionais e análise de métricas para identificar causas raiz, apoiar melhorias contínuas e contribuir para a evolução dos produtos.
+Tenho uma atuação fortemente orientada por dados, utilizando **SQL**, indicadores operacionais, dashboards e análise de métricas para identificar causas raiz, apoiar decisões técnicas e promover melhorias contínuas em produtos e processos.
 
-Atualmente, estou ampliando minha atuação em **Engenharia de Dados**, Inteligência Artificial e automação, desenvolvendo soluções baseadas em dados, pipelines ETL e aplicações utilizando Machine Learning.
+Atualmente, estou expandindo meus conhecimentos em **Engenharia de Dados**, **Inteligência Artificial** e **Automação**, desenvolvendo soluções com **Databricks**, **Python**, **ETL**, **Machine Learning** e **n8n**, conectando suporte, dados e tecnologia para gerar soluções escaláveis.
 
 ---
 
@@ -98,16 +98,23 @@ Atualmente, estou ampliando minha atuação em **Engenharia de Dados**, Intelig�
 
 <tr>
 <td>Integrações</td>
-<td>Data Analytics</td>
+<td>Databricks</td>
 <td>Scikit-Learn</td>
 <td>Jenkins</td>
 </tr>
 
 <tr>
 <td>Produtos SaaS</td>
-<td>Business Intelligence</td>
+<td>Apache Airflow</td>
 <td>TensorFlow</td>
 <td>Arquitetura de Software</td>
+</tr>
+
+<tr>
+<td>Análise de Performance</td>
+<td>Business Intelligence</td>
+<td>AI Agents</td>
+<td>Git</td>
 </tr>
 
 </table>
@@ -116,91 +123,113 @@ Atualmente, estou ampliando minha atuação em **Engenharia de Dados**, Intelig�
 
 ## ⚙ Tecnologias & Ferramentas
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,aws,tensorflow"/>
-
-</p>
+### 📊 Dados & Engenharia de Dados
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-1565C0?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 📊 Experiência Técnica
+### 💻 Desenvolvimento
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,aws"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Webhooks-455A64?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🤖 Inteligência Artificial
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLMs-6E40C9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-7B1FA2?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📊 Principais Competências Técnicas
 
 ✔ Troubleshooting Avançado
+
+✔ Gestão de Incidentes
 
 ✔ Investigação de Bugs
 
 ✔ Root Cause Analysis
 
-✔ Gestão de Incidentes
+✔ SQL & PL/SQL
 
 ✔ APIs REST
 
 ✔ Integrações
 
-✔ SQL & PL/SQL
-
 ✔ ETL / ELT
 
+✔ Databricks
+
+✔ Apache Airflow
+
 ✔ Data Analytics
+
+✔ Business Intelligence
 
 ✔ Dashboards
 
 ✔ KPIs
 
-✔ Modelagem de Dados
-
-✔ Business Intelligence
-
-✔ Produtos SaaS Enterprise
-
-✔ Inteligência Artificial
+✔ Python
 
 ✔ Machine Learning
 
+✔ Inteligência Artificial
+
 ✔ Automação com n8n
 
----
-
-## 📚 Atualmente Estudando
-
-- Engenharia de Dados
-- Databricks
-- Apache Spark
-- Lakehouse
-- ETL & ELT
-- Data Pipelines
-- Machine Learning
-- Inteligência Artificial
-- LLMs
-- Engenharia de Prompt
-- n8n
+✔ Produtos SaaS Enterprise
 
 ---
 
 ## 🎓 Certificações
+
+🏅 Databricks Fundamentals
 
 🏅 Astronomer Certification — Apache Airflow 3 Fundamentals
 
@@ -212,18 +241,35 @@ Atualmente, estou ampliando minha atuação em **Engenharia de Dados**, Intelig�
 
 ---
 
+## 📚 Atualmente Estudando
+
+- Apache Spark
+- Delta Lake
+- Lakehouse Architecture
+- Engenharia de Dados
+- Data Pipelines
+- ETL & ELT
+- Machine Learning
+- IA Generativa
+- AI Agents
+- LLMs
+- n8n
+- Engenharia de Prompt
+
+---
+
 ## 🎯 Objetivo Profissional
 
-Construir soluções que conectem **Support Engineering**, **Engenharia de Dados**, **Inteligência Artificial** e **Automação**, utilizando dados como base para melhorar produtos, otimizar processos e gerar valor para clientes e negócios.
+Construir soluções que integrem **Support Engineering**, **Engenharia de Dados**, **Inteligência Artificial** e **Automação**, utilizando dados para otimizar processos, apoiar decisões e desenvolver produtos mais inteligentes, escaláveis e eficientes.
 
 ---
 
 <p align="center">
 
-<b>
+<strong>
 
 Support Engineering • Data Engineering • Data Analytics • Artificial Intelligence • Software Engineering
 
-</b>
+</strong>
 
 </p>
